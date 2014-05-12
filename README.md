@@ -1,11 +1,14 @@
-#Block_Sites
+##Block_Sites
 
-## Dependencies (Python Modules):
+### Dependencies (Python Modules):
 * Plumbum
 * os 
 * csv
 
-This script blocks and unblocks websites using the host file. 
+### Future Plans:
+1) Clean up Code
+2) Comment Code
+
 
 
 
